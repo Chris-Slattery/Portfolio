@@ -12,3 +12,11 @@ body {
 .navbar-brand > .material-icons-outlined {
     font-size: 40px;
 }
+
+.about > .material-icons-outlined {
+    font-size: 60px;
+}
+
+.card > img {
+    height: 250px;
+}
